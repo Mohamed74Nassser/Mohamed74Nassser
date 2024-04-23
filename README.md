@@ -11,7 +11,7 @@
 
 - 🏢 I'm a Software Engineer. <br> 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills. <br>
-🛠 Tech Stack <br>
+- 🛠 Tech Stack <br>
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
