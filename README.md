@@ -9,7 +9,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20developer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer. <br> 
+- 🏢 I'm a Software Engineer | Backend Developer ( PHP - Laravel ). <br> 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills. <br>
 - 🛠 Tech Stack <br>
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
